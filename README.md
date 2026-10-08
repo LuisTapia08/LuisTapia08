@@ -1,20 +1,24 @@
-<h1 align="center">Olá, eu sou o Luís Tápia 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Prazer,%20Lu%C3%ADs%20T%C3%A1pia&fontAlign=50&fontAlignY=40&color=0:00FF66,100:00CC55&fontColor=ffffff&desc=Desenvolvedor%20Backend%20Python&descAlign=50&descAlignY=60"/>
 
 <p align="center">
-  🐍 <b>Desenvolvedor Backend Python</b> | 🧪 <b>QA & Automação de Testes</b> | 🤖 <b>RPA & IA Aplicada</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00FF66&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedor+Backend+Python;QA+%26+Automa%C3%A7%C3%A3o+de+Testes;RPA+%7C+Selenium+%7C+Playwright;IA+Aplicada+com+LLMs+locais;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/luistapia086"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lhtds.eng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Manaus%20--%20AM-00FF66?style=for-the-badge&logoColor=black"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
+
+🐍 Desenvolvedor Backend Python | QA & Automação de Testes | RPA & IA Aplicada
 
 Sou estudante de **Engenharia da Computação** (previsão 2027.1, **CR 9,71**) e desenvolvo **backends em Python, automações de ponta a ponta e soluções com IA local**. Gosto de pegar processos manuais e repetitivos e transformá-los em sistemas que rodam sozinhos.
 
 Hoje participo do **AX Academy – IA Aplicada: Agentes Inteligentes para a Indústria (Ciclo 4)**, da **FPFTech + LG Electronics**. Lá trabalho em projetos de **RPA e integração de dados** que, somados, têm estimativa de economizar **mais de 800 horas/ano** em processos corporativos.
 
 🎯 Busco oportunidades de **estágio ou júnior** em **desenvolvimento backend** ou **QA/automação de testes**.
+
+<p align="center">
+  <a href="https://linkedin.com/in/luistapia086"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lhtds.eng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Manaus%20--%20AM-00FF66?style=for-the-badge&logoColor=black"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
@@ -28,7 +32,7 @@ Hoje participo do **AX Academy – IA Aplicada: Agentes Inteligentes para a Ind�
 Pipeline completo em equipe: RPA extrai o BOM da linha de produção, os dados são limpos e gravados em **MySQL**, e uma **API** alimenta o frontend que compara o BOM local com os BOMs da China e da Coreia do Sul. Estimativa de **560 h/ano** economizadas.
 
 **Automação RPA para o setor financeiro** · AX Academy | FPFTech + LG Electronics · *2026*
-Arquitetura de automação em Python com **Selenium + OCR (ddddocr)** para login em sistema interno, integração com aplicação **Java** de emissão de notas fiscais, tratamento de dados com **Pandas** e envio automático de relatórios. Estimativa de **280 h/ano** economizadas.
+Arquitetura de automação em Python com **Selenium + OCR (ddddocr)** para login em sistema interno, integração com o sistema de emissão de notas fiscais, tratamento de dados com **Pandas** e envio automático de relatórios. Estimativa de **280 h/ano** economizadas.
 
 **Estagiário** · DETRAN-AM
 Suporte a sistemas internos, validação de documentos digitais e acompanhamento de processos no GETRAN.
@@ -71,7 +75,7 @@ API REST construída com **Django** e **Django REST Framework**.
   <br/>
 
   <b>Backend & Linguagens</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,c,java" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,c" alt="Backend"/>
 
   <br/><br/>
 
