@@ -16,7 +16,7 @@ Hoje participo do **AX Academy – IA Aplicada: Agentes Inteligentes para a Ind�
 
 <p align="center">
   <a href="https://linkedin.com/in/luistapia086"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lhtds.eng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lhtds.eng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Manaus%20--%20AM-00FF66?style=for-the-badge&logoColor=black"/>
 </p>
 
@@ -41,7 +41,7 @@ Suporte a sistemas internos, validação de documentos digitais e acompanhamento
 
 ## 🚀 Projetos em destaque
 
-### 🚗 [Bot Consultor de Multas](https://github.com/LuisTapia08/BOT-CONSULTOR-DE-MULTAS-AM-)
+### 🚗 [Bot Consultor de Multas](https://github.com/LuisTapia08/BOT-CONSULTOR-DE-MULTAS-AM-) · *em desenvolvimento*
 Bot no **Telegram** que recebe o RENAVAM, roda uma automação com **Playwright** no portal de trânsito, identifica multas (inclusive NIP em prazo de defesa), baixa notificação, boleto/Pix ou certidão negativa em PDF e envia tudo ao usuário, apagando os arquivos locais depois. Em caso de erro, manda print da tela; um `asyncio.Lock` impede consultas simultâneas.
 `Python` `Playwright` `python-telegram-bot` `OpenCV` `PyAutoGUI`
 
@@ -58,7 +58,7 @@ SaaS para professores que corrige **redações manuscritas no padrão ENEM**: mo
 `Python` `PyMuPDF` `Anthropic API` `Ollama` `Pydantic`
 
 ### 🏆 [Rumo ao Hexa](https://github.com/LuisTapia08/rumo-ao-hexa)
-API REST construída com **Django** e **Django REST Framework**.
+Projeto de estudo para praticar **APIs REST** com tema da **Copa do Mundo**: modelagem de grupos, seleções, jogadores e técnicos, e **chaveamento do torneio**, construído com **Django** e **Django REST Framework**.
 `Python` `Django` `DRF`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
