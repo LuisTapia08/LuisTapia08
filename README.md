@@ -12,7 +12,7 @@ Sou estudante de **Engenharia da Computação** (previsão 2027.1, **CR 9,71**) 
 
 Hoje participo do **AX Academy – IA Aplicada: Agentes Inteligentes para a Indústria (Ciclo 4)**, da **FPFTech + LG Electronics**. Lá trabalho em projetos de **RPA e integração de dados** que, somados, têm estimativa de economizar **mais de 800 horas/ano** em processos corporativos.
 
-🎯 Busco oportunidades de **estágio ou júnior** em **desenvolvimento backend** ou **QA/automação de testes**.
+🎯 Busco vaga efetiva (CLT) como **desenvolvedor júnior fullstack**, com foco em **backend** ou **QA/automação de testes**.
 
 <p align="center">
   <a href="https://linkedin.com/in/luistapia086"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
