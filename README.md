@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
-🐍 Desenvolvedor Backend Python | QA & Automação de Testes | RPA & IA Aplicada
+🐍 Desenvolvedor Fullstack | QA & Automação de Testes | RPA & IA Aplicada
 
 Sou estudante de **Engenharia da Computação** (previsão 2027.1, **CR 9,71**) e desenvolvo **backends em Python, automações de ponta a ponta e soluções com IA local**. Gosto de pegar processos manuais e repetitivos e transformá-los em sistemas que rodam sozinhos.
 
