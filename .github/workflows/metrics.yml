@@ -18,6 +18,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Manaus
+          # Inclui repositórios de organizações e onde você é colaborador
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories: 100
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 6
+          # Analisa só os seus commits (clona os repositórios)
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
