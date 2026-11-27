@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Prazer,%20Lu%C3%ADs%20T%C3%A1pia&fontAlign=50&fontAlignY=40&color=0:00FF66,100:00CC55&fontColor=ffffff&desc=Desenvolvedor%20Backend%20Python&descAlign=50&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Prazer,%20Lu%C3%ADs%20T%C3%A1pia&fontAlign=50&fontAlignY=40&color=0:00FF66,100:00CC55&fontColor=ffffff&desc=Desenvolvedor%20Fullstack&descAlign=50&descAlignY=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00FF66&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedor+Backend+Python;QA+%26+Automa%C3%A7%C3%A3o+de+Testes;RPA+%7C+Selenium+%7C+Playwright;IA+Aplicada+com+LLMs+locais;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00FF66&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedor+Fullstack;Python+%7C+React+%7C+TypeScript;APIs+%26+Integra%C3%A7%C3%A3o+de+Dados;RPA+%26+Automa%C3%A7%C3%A3o;IA+Aplicada+com+LLMs+locais;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
-🐍 Desenvolvedor Fullstack | QA & Automação de Testes | RPA & IA Aplicada
+💻 Desenvolvedor Fullstack | Automação & RPA | IA Aplicada
 
-Sou estudante de **Engenharia da Computação** (previsão 2027.1, **CR 9,71**) e desenvolvo **backends em Python, automações de ponta a ponta e soluções com IA local**. Gosto de pegar processos manuais e repetitivos e transformá-los em sistemas que rodam sozinhos.
+Sou estudante de **Engenharia da Computação** (previsão 2027.1, **CR 9,71**) e desenvolvo **aplicações fullstack** — de **APIs em Python e bancos PostgreSQL** a **interfaces em React com TypeScript** —, além de **automações de ponta a ponta e soluções com IA local**. Gosto de pegar processos manuais e repetitivos e transformá-los em sistemas que rodam sozinhos.
 
 Hoje participo do **AX Academy – IA Aplicada: Agentes Inteligentes para a Indústria (Ciclo 4)**, da **FPFTech + LG Electronics**. Lá trabalho em projetos de **RPA e integração de dados** que, somados, têm estimativa de economizar **mais de 800 horas/ano** em processos corporativos.
 
-🎯 Busco vaga efetiva (CLT) como **desenvolvedor júnior fullstack**, com foco em **backend** ou **QA/automação de testes**.
+🎯 Busco vaga efetiva (CLT) como **desenvolvedor júnior fullstack**.
 
 <p align="center">
   <a href="https://linkedin.com/in/luistapia086"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -68,18 +68,23 @@ Projeto de estudo para praticar **APIs REST** com tema da **Copa do Mundo**: mod
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=00FF66&pause=800&center=true&vCenter=true&width=420&height=30&lines=Python;Django+%26+Flask;APIs+RESTful;Selenium+%26+Playwright;BotCity+%26+RPA;PostgreSQL+%7C+MySQL+%7C+SQLite;OpenCV+%26+OCR;LLMs+com+Ollama;Git+%26+GitHub"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=00FF66&pause=800&center=true&vCenter=true&width=420&height=30&lines=Python;React+%26+TypeScript;Django+%7C+Flask+%7C+FastAPI;APIs+RESTful;Selenium+%26+Playwright;BotCity+%26+RPA;PostgreSQL+%7C+MySQL+%7C+SQLite;OpenCV+%26+OCR;LLMs+com+Ollama;Git+%26+GitHub"
     alt="Tecnologias"
   />
 
   <br/>
+
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="Frontend"/>
+
+  <br/><br/>
 
   <b>Backend & Linguagens</b><br/>
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,c" alt="Backend"/>
 
   <br/><br/>
 
-  <b>QA, Automação & Visão Computacional</b><br/>
+  <b>Automação, RPA & Visão Computacional</b><br/>
   <img src="https://skillicons.dev/icons?i=selenium,opencv" alt="Automação"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/BotCity-1E1E1E?style=for-the-badge" height="48"/>
@@ -118,7 +123,7 @@ Projeto de estudo para praticar **APIs REST** com tema da **Copa do Mundo**: mod
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
-✨ Fique à vontade para explorar meus repositórios. Se quiser trocar ideia sobre automação, backend ou IA, é só chamar no LinkedIn.
+✨ Fique à vontade para explorar meus repositórios. Se quiser trocar ideia sobre desenvolvimento fullstack, automação ou IA, é só chamar no LinkedIn.
 
 > 💡 *"Se a tarefa se repete, ela pode ser automatizada."*
 
