@@ -25,6 +25,8 @@ jobs:
           # Inclui repositórios de organizações e onde você é colaborador
           repositories_affiliations: owner, collaborator, organization_member
           repositories: 100
+          # Busca os repositórios em lotes menores (lote de 100 dava timeout na API e carregava 0 repositórios)
+          repositories_batch: 10
           repositories_forks: no
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -34,7 +36,7 @@ jobs:
           # Tempo máximo total da análise (minutos)
           plugin_languages_analysis_timeout: 30
           # Tempo máximo por repositório (minutos) — evita que um repo grande consuma todo o tempo
-          plugin_languages_analysis_timeout_repositories: 10
+          plugin_languages_analysis_timeout_repositories: 15
           # Ignora TeX (documentos LaTeX, não é código)
           plugin_languages_ignored: tex
           # TEMPORÁRIO: log detalhado para ver quais repositórios a análise de linguagens processa
