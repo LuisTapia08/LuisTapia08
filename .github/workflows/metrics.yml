@@ -10,7 +10,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 60
     permissions:
       contents: write
     steps:
@@ -24,7 +24,7 @@ jobs:
           config_timezone: America/Manaus
           # Inclui repositórios de organizações e onde você é colaborador
           repositories_affiliations: owner, collaborator, organization_member
-          repositories: 50
+          repositories: 100
           repositories_forks: no
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -32,10 +32,10 @@ jobs:
           # Analisa só os seus commits (clona os repositórios)
           plugin_languages_indepth: yes
           # Tempo máximo total da análise (minutos)
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 30
           # Tempo máximo por repositório (minutos) — evita que um repo grande consuma todo o tempo
-          plugin_languages_analysis_timeout_repositories: 3
-          # Ignora PL/pgSQL (migrations) e TeX, que distorciam a contagem
-          plugin_languages_ignored: plpgsql, tex
+          plugin_languages_analysis_timeout_repositories: 10
+          # Ignora TeX (documentos LaTeX, não é código)
+          plugin_languages_ignored: tex
           # E-mail dos commits (inclusive nos repos das organizações)
           commits_authoring: LuisTapia08, luitapia307@gmail.com
