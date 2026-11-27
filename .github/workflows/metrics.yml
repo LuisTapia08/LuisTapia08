@@ -37,5 +37,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 10
           # Ignora TeX (documentos LaTeX, não é código)
           plugin_languages_ignored: tex
+          # TEMPORÁRIO: log detalhado para ver quais repositórios a análise de linguagens processa
+          debug: yes
           # E-mail dos commits (inclusive nos repos das organizações)
           commits_authoring: LuisTapia08, luitapia307@gmail.com
