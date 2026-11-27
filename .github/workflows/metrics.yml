@@ -22,8 +22,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Manaus
-          # Inclui repositórios de organizações e onde você é colaborador
-          repositories_affiliations: owner, collaborator, organization_member
+          # Só repositórios próprios (os de organização entram via plugin_languages_indepth_custom)
+          repositories_affiliations: owner
           repositories: 100
           # Busca os repositórios em lotes menores (lote de 100 dava timeout na API e carregava 0 repositórios)
           repositories_batch: 10
@@ -39,6 +39,8 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 15
           # Ignora TeX (documentos LaTeX, não é código)
           plugin_languages_ignored: tex
+          # Da RA Tecnologia, analisa só o repositório em que contribuo
+          plugin_languages_indepth_custom: RA-TECNOLOGIA-AM/lexhub-platform
           # TEMPORÁRIO: log detalhado para ver quais repositórios a análise de linguagens processa
           debug: yes
           # E-mail dos commits (inclusive nos repos das organizações)
